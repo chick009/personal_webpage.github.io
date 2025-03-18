@@ -6,8 +6,8 @@ const nextConfig = {
     unoptimized: true
   },
   output: 'export',
-  distDir: 'out',
-  basePath: process.env.NODE_ENV === 'production' ? '/resume_webpage' : ''
+  basePath: '/personal_webpage',
+  assetPrefix: '/personal_webpage/'
 };
 
 module.exports = nextConfig; 
