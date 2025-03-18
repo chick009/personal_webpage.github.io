@@ -1,0 +1,39 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI-Powered Resume Parser",
+      "description": "Developed a machine learning application that automatically extracts and categorizes information from resume PDFs. Built with Python, TensorFlow, and Flask with a React frontend.",
+      "link": "https://github.com/yikchunho/resume-parser",
+      "image": "/assets/images/ai-resume-parser.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Smart Inventory System",
+      "description": "Created a real-time inventory management system with IoT integration for automatic stock tracking. Used Node.js, MongoDB, and React with AWS IoT services.",
+      "link": "https://github.com/yikchunho/smart-inventory",
+      "image": "/assets/images/inventory-system.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Financial Data Visualization",
+      "description": "Built a comprehensive financial data dashboard that processes and visualizes market trends and investment opportunities. Implemented with Python, Django, D3.js, and PostgreSQL.",
+      "link": "https://github.com/yikchunho/finance-viz",
+      "image": "/assets/images/finance-viz.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Healthcare Scheduling Platform",
+      "description": "Designed and developed a patient scheduling system for healthcare providers that integrates with electronic health records. Built with Java Spring Boot, MySQL, and Angular.",
+      "link": "https://github.com/yikchunho/healthcare-scheduler",
+      "image": "/assets/images/healthcare-scheduler.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Cloud-Based Document Manager",
+      "description": "Created a secure document management system with version control, collaborative editing, and permission-based access. Developed using Next.js, Firebase, and Google Cloud Storage.",
+      "link": "https://github.com/yikchunho/doc-manager",
+      "image": "/assets/images/doc-manager.jpg"
+    }
+  ]
+} 
