@@ -3,13 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "description": "A personal resume webpage built with Next.js",
+  "homepage": "https://chick009.github.io/personal_webpage",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "export": "next export",
     "lint": "next lint",
-    "deploy": "next build && touch out/.nojekyll && git add out/ && git commit -m \"Deploy Next.js site to Pages\" && git subtree push --prefix out origin gh-pages"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "next": "14.2.25",
@@ -23,6 +25,7 @@
     "autoprefixer": "^10.0.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.25",
+    "gh-pages": "^6.1.1",
     "postcss": "^8",
     "tailwindcss": "^3.3.0",
     "typescript": "^5"
