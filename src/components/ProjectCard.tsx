@@ -39,10 +39,11 @@ const ProjectCard: React.FC<ProjectCardProps> = ({
           fontWeight: 'bold'
         }}
       >
-        {title} Project
+        <div className="px-4 text-center max-w-[80%]">
+          {title}
+        </div>
       </div>
       <div className="p-6">
-        <h3 className="text-xl font-bold mb-2">{title}</h3>
         <p className="text-gray-700 mb-4">{description}</p>
         <div className="flex justify-center">
           <a 

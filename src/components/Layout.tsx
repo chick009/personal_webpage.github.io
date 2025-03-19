@@ -24,7 +24,7 @@ const Layout = ({ children, title = 'Resume Website' }: LayoutProps) => {
         <nav className="container mx-auto px-4 py-4 flex justify-between items-center">
           <h1 className="text-xl font-bold">
             <Link href="/">
-              <span className="cursor-pointer">My Resume</span>
+              <span className="cursor-pointer">Johnny</span>
             </Link>
           </h1>
           <ul className="flex space-x-6">
@@ -61,7 +61,7 @@ const Layout = ({ children, title = 'Resume Website' }: LayoutProps) => {
         <div className="container mx-auto px-4 text-center">
           <div className="flex justify-center space-x-6 mb-4">
             <a 
-              href="https://linkedin.com/in/johndoe" 
+              href="https://www.linkedin.com/in/chyik0919/" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-white hover:text-blue-400 transition-colors"
@@ -72,7 +72,7 @@ const Layout = ({ children, title = 'Resume Website' }: LayoutProps) => {
               </svg>
             </a>
             <a 
-              href="mailto:john.doe@example.com" 
+              href="mailto:johnnyyik0919@gmail.com" 
               className="text-white hover:text-blue-400 transition-colors"
               aria-label="Email"
             >
@@ -81,7 +81,7 @@ const Layout = ({ children, title = 'Resume Website' }: LayoutProps) => {
               </svg>
             </a>
           </div>
-          <p>&copy; {new Date().getFullYear()} - My Resume Website</p>
+          <p>&copy; {new Date().getFullYear()} - Johnny's Portfolio</p>
         </div>
       </footer>
     </div>

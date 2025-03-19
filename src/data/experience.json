@@ -2,38 +2,22 @@
   "experiences": [
     {
       "id": 1,
-      "company": "AI Institute of University of South Carolina (AIISC)",
-      "position": "Research Intern",
-      "period": "Feb 2025 - Present",
-      "description": "Supervised by Professor Amitava Das on research about Hallucinations.",
-      "image": "/assets/images/aiisc.jpg"
-    },
-    {
-      "id": 2,
-      "company": "CUHK",
-      "position": "Research Student Intern",
-      "period": "Dec 2022 - Present",
-      "description": "Supervised by Professor Hoonie Kang for language model feedback in Management Science. Also supervised by Professor Xixin Wu on Text-To-Speech applications.",
-      "image": "/assets/images/cuhk.jpg"
-    },
-    {
-      "id": 3,
       "company": "Sony Corporation",
       "position": "Research Engineer, Audio Signal Processing Intern",
       "period": "Jun 2024 - Aug 2024",
       "description": "Conducted research on style transfer algorithms in audio signal processing and developed diffusion models for controllable image synthesis.",
-      "image": "/assets/images/sony.jpg"
+      "image": "/assets/images/sony.jpeg"
     },
     {
-      "id": 4,
+      "id": 2,
       "company": "Thales / Hitachi Rail",
       "position": "Software Intern",
       "period": "Sep 2023 - Jun 2024",
       "description": "Optimized passenger flow prediction and explored anomaly detection and synthetic data generation for fraud detection.",
-      "image": "/assets/images/thales.jpg"
+      "image": "/assets/images/hitachi.jpeg"
     },
     {
-      "id": 5,
+      "id": 3,
       "company": "Nvidia",
       "position": "Machine Learning Intern",
       "period": "Jun 2023 - Aug 2023",

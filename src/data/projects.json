@@ -2,38 +2,38 @@
   "projects": [
     {
       "id": 1,
-      "title": "AI-Powered Resume Parser",
-      "description": "Developed a machine learning application that automatically extracts and categorizes information from resume PDFs. Built with Python, TensorFlow, and Flask with a React frontend.",
-      "link": "https://github.com/yikchunho/resume-parser",
-      "image": "/assets/images/ai-resume-parser.jpg"
+      "title": "GRPO Training on GSM-8k",
+      "description": "Developed a training framework for GSM-8k using GRPO techniques. This project is hosted on GitHub and provides a comprehensive guide for training models on GSM-8k datasets.",
+      "link": "https://github.com/chick009/GRPO_Training_GSM8k",
+      "image": "/assets/images/grpo-gsm8k.jpg"
     },
     {
       "id": 2,
-      "title": "Smart Inventory System",
-      "description": "Created a real-time inventory management system with IoT integration for automatic stock tracking. Used Node.js, MongoDB, and React with AWS IoT services.",
-      "link": "https://github.com/yikchunho/smart-inventory",
-      "image": "/assets/images/inventory-system.jpg"
+      "title": "Enefit Competition on Kaggle",
+      "description": "Participated in the Enefit competition on Kaggle and achieved a bronze medal. The project involves data analysis and model building for energy consumption forecasting.",
+      "link": "https://github.com/chick009/kaggle_enefit",
+      "image": "/assets/images/enefit-kaggle.jpg"
     },
     {
       "id": 3,
-      "title": "Financial Data Visualization",
-      "description": "Built a comprehensive financial data dashboard that processes and visualizes market trends and investment opportunities. Implemented with Python, Django, D3.js, and PostgreSQL.",
-      "link": "https://github.com/yikchunho/finance-viz",
-      "image": "/assets/images/finance-viz.jpg"
+      "title": "CRISP-DL Read",
+      "description": "Delivered two talks on the paper Control Net and Moma. This project includes resources and insights from the talks, focusing on deep learning advancements.",
+      "link": "https://github.com/chick009/crisp-dl-read",
+      "image": "/assets/images/crisp-dl-read.jpg"
     },
     {
       "id": 4,
-      "title": "Healthcare Scheduling Platform",
-      "description": "Designed and developed a patient scheduling system for healthcare providers that integrates with electronic health records. Built with Java Spring Boot, MySQL, and Angular.",
-      "link": "https://github.com/yikchunho/healthcare-scheduler",
-      "image": "/assets/images/healthcare-scheduler.jpg"
+      "title": "Portfolio Allocation via Deep Learning",
+      "description": "Developed a deep learning model for portfolio allocation. This project explores the use of neural networks in financial portfolio management.",
+      "link": "https://github.com/chick009/fyp_portopt",
+      "image": "/assets/images/portfolio-allocation.jpg"
     },
     {
       "id": 5,
-      "title": "Cloud-Based Document Manager",
-      "description": "Created a secure document management system with version control, collaborative editing, and permission-based access. Developed using Next.js, Firebase, and Google Cloud Storage.",
-      "link": "https://github.com/yikchunho/doc-manager",
-      "image": "/assets/images/doc-manager.jpg"
+      "title": "Portfolio Clustering Baselines",
+      "description": "Implemented baseline models for portfolio clustering using deep learning techniques. This project provides a foundation for further research in financial clustering.",
+      "link": "https://github.com/chick009/portfolio_clustering_baselines",
+      "image": "/assets/images/portfolio-clustering.jpg"
     }
   ]
 } 
