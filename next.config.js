@@ -6,8 +6,9 @@ const nextConfig = {
     unoptimized: true
   },
   output: 'export',
-  basePath: process.env.NODE_ENV === 'production' ? '/personal_webpage' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/personal_webpage/' : ''
+  basePath: '/personal_webpage',
+  assetPrefix: '/personal_webpage/',
+  trailingSlash: true
 };
 
 module.exports = nextConfig; 
