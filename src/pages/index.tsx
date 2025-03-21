@@ -21,8 +21,9 @@ const Home = () => {
           {/* <h2 className="text-2xl mb-6">{introData.title}</h2> */}
           <p className="text-xl max-w-2xl mx-auto mb-8">{introData.intro}</p>
           <a 
-            href="/assets/pdf/resume.pdf" 
-            download
+            href="https://drive.google.com/file/d/1v6A8gYzjkS1ccvSe4l1Ythqv1tf43rcr/view?usp=sharing" 
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition-colors"
           >
             Download Resume
